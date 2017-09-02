@@ -2,11 +2,20 @@
 	height: 60px;
 	background: rgba(0,0,0,0.5);
 }
+#menu #github {
+	border-radius: 50%;
+	display: inline-block;
+	margin-left: 10px;
+	cursor: pointer;
+}
 #menu .title {
 	background: none;
 	font-size: 18px;
 	color:white;
 	margin-right: 50px;
+}
+#menu .title:hover {
+	background: none;
 }
 #menu .title .name {
 	font-size: 26px;
