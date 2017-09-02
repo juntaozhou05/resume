@@ -1,0 +1,84 @@
+#menu {
+	height: 60px;
+	background: rgba(0,0,0,0.5);
+}
+#menu .title {
+	background: none;
+	font-size: 18px;
+	color:white;
+	margin-right: 50px;
+}
+#menu .title .name {
+	font-size: 26px;
+}
+
+#myContainer {
+	color:white;
+	font-size: 18px;
+}
+#myContainer #left1 .top {
+	font-size: 20px;
+	text-align: right;
+}
+#myContainer #myList {
+	margin-left: 40px;
+}
+#myContainer #myList td {
+	padding:5px;
+}
+#myContainer #myList .left {
+	text-align: right;
+}
+#myContainer #instruction p {
+	font-size: 18px;
+}
+#myContainer #left2 #skillTable #myContainer #right2 #skillTable {
+	width: 100%;
+}
+#myContainer #left2 #skillTable caption{
+	text-align: center;
+	padding-bottom: 40px;
+	font-size: 22px;
+	text-indent: -30px;
+}
+#myContainer #right2 #skillTable caption  {
+	text-align: center;
+	padding-bottom: 40px;
+	font-size: 22px;
+	text-indent: -30px;
+	margin-top: -20px;
+}
+#myContainer #left2 #skillTable td, #myContainer #right2 #skillTable td {
+	text-align: center;
+	padding:10px 25px;
+}
+#myContainer #left2 #skillTable progress, #myContainer #right2 #skillTable progress {
+	width: 60px;
+	height: 10px;
+	background: green;
+	border-radius: 2px;
+}
+#myContainer #left3 table {
+	padding-left: 60px;
+}
+#myContainer #left3 table td, #myContainer #right3 table td {
+	padding:10px 30px;
+	font-size: 20px;
+}
+#myContainer #left4 table,#myContainer #right4 table {
+	padding-left: 20px;
+}
+#myContainer #left4 table .title,#myContainer #right4 table .title{
+	font-size: 18px;
+	color:green;
+}
+#myContainer #left4 table .duty,#myContainer #right4 table .duty{
+	color:red;
+}
+#myContainer #left4 table img,#myContainer #right4 table img{
+	border-radius: 50%;
+}
+
+
+
+
